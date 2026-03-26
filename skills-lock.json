@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "index-knowledge": {
+      "source": "dmmulroy/.dotfiles",
+      "sourceType": "github",
+      "computedHash": "0882b222a89c593250c5f494a73f3c35147451f1447846cf25bc181d748094f1"
+    },
+    "tdd": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "computedHash": "ad055544599481182d0079c4198e85da26677cb408a677be2da04915375f0427"
+    },
+    "write-a-skill": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "computedHash": "b44d8aab2ead83c716e01af4c9a24ccc4575ce70ad58ec4f1749fb88c9cc82ba"
+    }
+  }
+}
