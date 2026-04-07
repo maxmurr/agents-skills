@@ -4,7 +4,7 @@ For AI functions that return a typed JSON object.
 
 ```typescript
 import { evalite } from "evalite";
-import { createScorer } from "evalite/scorer";
+import { createScorer } from "evalite/scorers";
 
 import { extractTicketInfo } from "./extract-ticket-info";
 

@@ -4,7 +4,7 @@ Simplest starting point. Exact match scorer + one quality check.
 
 ```typescript
 import { evalite } from "evalite";
-import { createScorer } from "evalite/scorer";
+import { createScorer } from "evalite/scorers";
 import { exactMatch } from "evalite/scorers";
 
 import { myFunction } from "./my-function";

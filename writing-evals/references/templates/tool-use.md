@@ -4,7 +4,7 @@ For AI agents that select and invoke tools with arguments.
 
 ```typescript
 import { evalite } from "evalite";
-import { createScorer } from "evalite/scorer";
+import { createScorer } from "evalite/scorers";
 import { toolCallAccuracy } from "evalite/scorers";
 
 import { supportAgent } from "./support-agent";

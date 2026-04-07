@@ -18,7 +18,7 @@ Add to `package.json`:
 
 ```typescript
 import { evalite } from "evalite";
-import { createScorer } from "evalite/scorer";
+import { createScorer } from "evalite/scorers";
 import { exactMatch, levenshtein, faithfulness, toolCallAccuracy } from "evalite/scorers";
 ```
 

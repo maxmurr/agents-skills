@@ -4,7 +4,7 @@ For AI functions that retrieve documents or generate answers grounded in context
 
 ```typescript
 import { evalite } from "evalite";
-import { createScorer } from "evalite/scorer";
+import { createScorer } from "evalite/scorers";
 import { faithfulness, contextRecall } from "evalite/scorers";
 
 import { retrieveAndAnswer } from "./retrieve-and-answer";

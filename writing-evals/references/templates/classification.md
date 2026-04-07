@@ -4,7 +4,7 @@ For AI functions that output a category label from a fixed set.
 
 ```typescript
 import { evalite } from "evalite";
-import { createScorer } from "evalite/scorer";
+import { createScorer } from "evalite/scorers";
 import { exactMatch } from "evalite/scorers";
 
 import { categorize } from "./categorize";
